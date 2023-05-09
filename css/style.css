@@ -241,6 +241,7 @@ img {
 .docs-main a:hover {
   font-weight: bold;
 }
+
 /* Tablets & Under */
 @media (max-width: 768px) {
   .grid,
