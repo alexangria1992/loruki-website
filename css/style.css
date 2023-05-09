@@ -98,7 +98,7 @@ img {
   padding: 40px;
   z-index: 100;
   justify-self: flex-end;
-  animation: slideInFromRight 1s ease-in;
+  /* animation: slideInFromRight 1s ease-in; */
 }
 
 .showcase-form .form-control {
@@ -194,6 +194,20 @@ img {
   margin: 0 10px;
 }
 
+/* Features */
+.features-head img {
+  width: 200px;
+  justify-self: flex-end;
+}
+
+.features-sub-head img {
+  width: 300px;
+  justify-self: flex-end;
+}
+
+.features-main .card > i {
+  margin-right: 20px;
+}
 /* Tablets & Under */
 @media (max-width: 768px) {
   .grid,
