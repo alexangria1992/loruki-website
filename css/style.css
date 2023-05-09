@@ -165,3 +165,6 @@ img {
 }
 
 /* Cloud Section */
+.cloud {
+  grid-template-columns: repeat(4fr 3fr);
+}
